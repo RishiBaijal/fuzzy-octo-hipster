@@ -9,4 +9,4 @@ Initially written in perl, this program is a python rendition of the same code. 
 
 3. The encoding format of the header (default is UTF-8)
 
-I tested this program on a linux machine that runs Apache 2.2.22, and it works fine. This program should only be used in a control environment. I don't condone the use of this program to attack actual websites. I am not to be held responsible if someone uses this code for malicious purposes.
+I tested this program on a linux machine that runs Apache 2.2.22, and it works fine. This program should only be used in a control environment. I don't condone the use of this program to attack actual websites. I am not to be held responsible if someone uses this code for malicious purposes. This code is based on PyLoris: https://github.com/Anonymous-Dev/Pyloris (This is a very, very tiny version compared to that). 
